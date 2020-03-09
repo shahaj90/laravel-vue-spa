@@ -1,4 +1,4 @@
-<h1 style='color:orange'>Laravel Vue Single Page Application</h1>
+<h1>Laravel Vue Single Page Application</h1>
 ## Install Laravel Vue (SPA)
 
 1. Create .env file
