@@ -13,7 +13,10 @@
 2. Change API_URL
 3. Update composer
 4. Run php artisan serve
+5. Run npm install
+6. Run npm run watch
 
+Enjoy!!!
 
 ## License
 
